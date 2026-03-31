@@ -1,22 +1,28 @@
 {
   "keys": {
-    "key-cheatgameiosvip0472903290-n6v0v4bpf1": {
-      "expires": "2026-01-13",
+    "abcd99": {
+      "config": {
+        "allowed_ios_versions": ["18.3.2", "18.4", "18.5"]
+      },
+      "expires": "2026-04-30",
       "status": "active",
-      "note": "FOR BOSS VIP CHONG HA HUONG👑",
-      "allowed_ios_versions": ["18.3.2"]
+      "note": "Khách A - 30 ngày"
     },
-    "DIEN_KEY_CUA_KHACH_B": {
+    "KEYKHACHB-2026": {
+      "config": {
+        "allowed_ios_versions": ["18.5"]
+      },
       "expires": "2026-07-20",
       "status": "active",
-      "note": "Khách B - 6 tháng",
-      "allowed_ios_versions": ["18.5"]
+      "note": "Khách B - 6 tháng"
     },
     "VIP-999999": {
+      "config": {
+        "allowed_ios_versions": ["18.4", "18.5"]
+      },
       "expires": "2026-12-31",
       "status": "active",
-      "note": "Khách VIP - 1 năm",
-      "allowed_ios_versions": ["18.3.2", "18.4", "18.5"]
+      "note": "Khách VIP - 1 năm"
     }
   }
 }
