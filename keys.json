@@ -4,8 +4,8 @@
     "global_expiry": "2026-10-13"
   },
   "keys": {
-    "THANG-ABC123456789": {
-      "expires": "2026-12-31",
+    "abcd99": {
+      "expires": "2026-02-31",
       "status": "active",
       "note": "Khách A - 30 ngày"
     },
