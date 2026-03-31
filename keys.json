@@ -1,6 +1,6 @@
 {
   "config": {
-    "allowed_ios_versions": ["18.3.2", "18.4", "18.5"]
+    "allowed_ios_versions": ["18.3.0", "18.4", "18.5"]
   },
   "keys": {
     "abcd99": {
