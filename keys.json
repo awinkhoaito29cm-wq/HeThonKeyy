@@ -1,28 +1,25 @@
 {
+  "config": {
+    "allowed_ios_versions": ["18.3.2", "18.4", "18.5"]
+  },
   "keys": {
-    "key-cheatgameiosvip0274027592-nf0hton9fo1": {
-      "config": {
-        "allowed_ios_versions": ["18.3.2"]
-      },
-      "expires": "2026-10-13",
+    "abcd99": {
+      "expires": "2026-04-30",
       "status": "active",
-      "note": "Khách A - 30 ngày"
+      "note": "Khách A - 30 ngày",
+      "allowed_ios_versions": ["18.3.0"]
     },
     "KEYKHACHB-2026": {
-      "config": {
-        "allowed_ios_versions": ["18.5"]
-      },
       "expires": "2026-07-20",
       "status": "active",
-      "note": "Khách B - 6 tháng"
+      "note": "Khách B - 6 tháng",
+      "allowed_ios_versions": ["18.5"]
     },
     "VIP-999999": {
-      "config": {
-        "allowed_ios_versions": ["18.4", "18.5"]
-      },
       "expires": "2026-12-31",
       "status": "active",
-      "note": "Khách VIP - 1 năm"
+      "note": "Khách VIP - 1 năm",
+      "allowed_ios_versions": ["18.3.2", "18.4", "18.5"]
     }
   }
 }
