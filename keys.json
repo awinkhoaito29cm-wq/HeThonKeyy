@@ -1,12 +1,12 @@
 {
   "config": {
-    "allowed_ios_versions": ["18.2.0", "18.4", "18.5"]
+    "allowed_ios_versions": ["18.3.2", "1", "0"]
   },
   "keys": {
-    "abcd99": {
-      "expires": "2026-04-30",
+    "key-cheatgameiosvip131013090213-yeut1n3h1h0": {
+      "expires": "2026-10-13",
       "status": "active",
-      "note": "Khách A - 30 ngày",
+      "note": "VIP FOR CHONG HAHUONG",
       "allowed_ios_versions": ["18.3.0"]
     },
     "KEYKHACHB-2026": {
