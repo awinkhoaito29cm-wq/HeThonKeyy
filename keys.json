@@ -1,6 +1,6 @@
 {
   "config": {
-    "allowed_ios_versions": ["18.3.2", "18.7.0", "18.7.1"]
+    "allowed_ios_versions": ["18.3.2", "15.8.5", "18.7.1"]
   },
   "keys": {
     "key-cheatgameiosvip131013090213-yeut1n3h1h0ntg": {
@@ -13,7 +13,7 @@
       "expires": "2026-04-08",
       "status": "active",
       "note": "Bi an Bi an 7 ngày",
-      "allowed_ios_versions": ["18.5"]
+      "allowed_ios_versions": ["18.7.1"]
     },
     "VIP-999999": {
       "expires": "2026-12-31",
